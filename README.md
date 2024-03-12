@@ -1,6 +1,6 @@
 # Telangana Government Tourism Department Analysis
 ## Task: 
-Peter Pandey, acting as a data analyst, took advantage of the transparent data policy of Telangana, a progressive Indian state, to delve into their tourism figures. Pandey's goal was to identify trends in the data, conduct further research, and provide evidence-based suggestions to the Telangana government for revenue enhancement and administrative improvement. The challenge was to step into Pandey's shoes and perform a similar analysis.
+Analyze the publicly available tourism data from Telangana to identify trends and patterns. Conduct additional research and provide data-driven recommendations to the Telangana government for potential revenue enhancement and administrative improvements.
 
 ## Methodology: 
 Employed tools such as MySQL, Microsoft PowerBI, and MS Excel.
